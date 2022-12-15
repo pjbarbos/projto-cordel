@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family= Passion+One & display família= Paixão+Um:wght@400;700;900 & swap');
+@import url('https://fonts.googleapis.com/css2?family= Sriracha & display = swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+body{
+    font-family: 'Sriracha', cursiva;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 200px;
+}
+header > h1{
+    font-size: 80px;
+    margin: auto;
+    padding: 25px;
+    
+}
+header > p{
+    font-size: 30px;
+}
+main{
+    padding: 50px;
+    margin: 50px;
+}
+section > article > p{
+    padding: 5px;
+}
+#segundo{
+    background-image: url(imagens/background001.jpg);
+    margin-top: 20px;
+    color: white;
+}
+#terceiro{
+    margin-top: 20px;
+}
+#quarto{
+    margin-top: 20px;
+}
+#quinto{
+    background-image: url(imagens/background002.jpg);
+    margin-top: 20px;
+    color: white;
+}
+#sexto{
+    margin-top: 20px;
+}
+#setimo{
+    margin-top: 20px;
+}
